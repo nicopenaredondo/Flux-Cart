@@ -5,6 +5,6 @@ module.exports = keyMirror({
   CART_REMOVE: null, //remove item from cart
   CART_VISIBLE: null, //shows or hides the cart
   SET_SELECTED: null, //select a product option
-  RECEIVED_DATA: null; //loads our mock data
+  RECEIVED_DATA: null //loads our mock data
 });
 
